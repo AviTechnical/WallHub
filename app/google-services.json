@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928699166775",
+    "project_id": "wallpaperdatabse",
+    "storage_bucket": "wallpaperdatabse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928699166775:android:8dfb473c7927035905cfb2",
+        "android_client_info": {
+          "package_name": "com.bybitmedia.wallhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbGOeiTEYx38k3Mic2GEEllABVcTzKVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
